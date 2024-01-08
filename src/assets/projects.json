@@ -1,0 +1,59 @@
+{
+    "projects": [
+      {
+        "name": "NITC Buy Sell",
+        "imagelink": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Places-to-buy-or-sell-your-website.jpg",
+        "description": "This project was about to create a web application for the NITC students that can be helpful for them to buy or sell any second hand products as per their choice.",
+        "technologies": ["Javascript", "React", "Node", "MySQL", "Express", "Git"],
+        "sourceCode": "https://github.com/Gyanaranjan-934/NITC_buy_and_sell",
+        "livelink": "https://nitc-buy-sell.netlify.app/",
+        "demolink": "https://nitc-buysell.onrender.com/"
+      },
+      {
+        "name": "BoldBazaar",
+        "imagelink": "https://www.searchenginejournal.com/wp-content/uploads/2020/03/20-free-things-you-need-to-do-after-launching-your-ecommerce-website-5e664bcb60da5.png",
+        "description": "Developed a full-fledged dynamic web-application which includes all the necessary functionalities of an e-commerce webapplication.",
+        "technologies": ["Python", "Django", "MySQL", "Bootstrap", "Javascript", "AJAX"],
+        "sourceCode": "https://github.com/Gyanaranjan-934/Boldbazaar",
+        "livelink": "",
+        "demolink": "https://youtu.be/bV9-9MUkxHs?si=flvCeScpukGYVuz_"
+      },
+      {
+        "name": "NITC Student Guidance Cell",
+        "imagelink": "https://media.licdn.com/dms/image/C560BAQEf3maG2vBuXQ/company-logo_200_200/0/1630647733952?e=2147483647&v=beta&t=pebcA0ltJSnYt_yn0LIattqFcKjb4i61KQ1NW0vsgeE",
+        "description": "As part of a team project, we developed an education-focused platform that streamlined user authentication, managed profiles, and facilitated appointment bookings.",
+        "technologies": ["Android Studio", "Kotlin", "Firebase"],
+        "sourceCode": "https://github.com/Gyanaranjan-934/NITC-Student-Guidance-Cell",
+        "livelink": "",
+        "demolink": ""
+      },
+      {
+        "name": "Covid-19 Face Mask Detector",
+        "imagelink": "https://5.imimg.com/data5/PI/FD/NK/SELLER-5866466/images-500x500.jpg",
+        "description": "Developed a COVID-19 Face Mask Detector using Jupyter, CNN with VGG16 architecture, and Haar Cascade XML to detect faces and fill them with rectangles. ",
+        "technologies": ["Python", "Jupyter Notebook", "CNN", "Keras", "Pandas", "Numpy", "OpenCV"],
+        "sourceCode": "https://github.com/Gyanaranjan-934/Covid-19-Face-Mask-Detector",
+        "livelink": "",
+        "demolink": ""
+      },
+      {
+        "name": "FreeTalks",
+        "imagelink": "https://img-c.udemycdn.com/course/750x422/4164822_63bd_3.jpg",
+        "description": "Developed a responsive blog application using PHP Laravel and MySQL. Designed and implemented the application's architecture, database schema, and user interface. ",
+        "technologies": ["PHP", "Laravel", "MySQL", "Bootstrap"],
+        "sourceCode": "https://github.com/Gyanaranjan-934/BlogApplication",
+        "livelink": "",
+        "demolink": ""
+      },
+      {
+        "name": "iNoteBook",
+        "imagelink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoId2CPNyAa1d2hcSZvkK_FE4fAlse4oc_5A&usqp=CAU",
+        "description": "Developed a MERN (MongoDB, Express, React, Node.js) stack web application with user authentication and password encryption. Users can seamlessly manage their daily notes.",
+        "technologies": ["Javascript", "React", "Node", "MongoDB", "Express"],
+        "sourceCode": "https://github.com/Gyanaranjan-934/iNoteBook",
+        "livelink": "",
+        "demolink": ""
+      }
+    ]
+  }
+  
